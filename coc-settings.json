@@ -1,0 +1,5 @@
+{
+    "python.jediPath": "/home/alex/.local/lib/python3.8/site-packages",
+    "python.pylintPath": "/home/alex/.local/lib/python3.8/site-packages",
+    "clangd.path": "/home/alex/.config/coc/extensions/coc-clangd-data/install/11.0.0/clangd_11.0.0/bin/clangd"
+}

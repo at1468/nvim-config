@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/usr/share/nvim/runtime/doc'
+let g:netrw_dirhist_2='/home/alex/development/python/broo'
+let g:netrw_dirhist_1='/home/alex/development/c/sdlAsteroids'
